@@ -1,14 +1,18 @@
--> commond 
+Commond 
 
-1. what is your name 
-2. hello  or hye or hay
-3. how are you
-4. thanku or thank
-5. good morning
-6. time now
-7. shutdown
-8. play music or song 
-9. open google or google 
-10. youtube or  open youtube
-11. weather
-12. music from my laptop
+-> take a screenshot
+-> battery status
+-> clean my system or empty recycle bin
+-> volume up or volume down or mute volume
+-> open [application name]
+-> search [query]
+-> play [video] on youtube
+-> remember that [fact]
+-> where is [item] or what is my [item]
+-> what time is it
+-> weather or weather in [city]
+-> tell me the news
+-> tell me a joke
+-> wikipedia [topic]
+-> hello
+-> shutdown or quit
